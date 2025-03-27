@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AnnouncementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ApplicationPreview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ComplaintForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tasks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gallery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Guest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainPageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewRule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Preview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RuleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Start.cs">
+      <SubType>Form</SubType>
+    </Compile>
+<<<<<<< HEAD
+=======
+    <Compile Update="TaskForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewComplaints.cs">
+      <SubType>Form</SubType>
+    </Compile>
+>>>>>>> 70d26f53b08ba37a7826c17829c16fd4d45a9c22
+  </ItemGroup>
+</Project>

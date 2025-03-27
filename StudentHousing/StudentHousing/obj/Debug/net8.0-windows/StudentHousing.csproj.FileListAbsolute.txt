@@ -1,0 +1,171 @@
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\bin\Debug\net8.0-windows\StudentHousing.exe
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\bin\Debug\net8.0-windows\StudentHousing.deps.json
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\bin\Debug\net8.0-windows\StudentHousing.runtimeconfig.json
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\bin\Debug\net8.0-windows\StudentHousing.dll
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\bin\Debug\net8.0-windows\StudentHousing.pdb
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Admin.resources
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.AnnouncementForm.resources
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.ComplaintForm.resources
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Form1.resources
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Gallery.resources
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Guest.resources
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Login.resources
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.MainPageForm.resources
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Properties.Resources.resources
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Register.resources
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.RuleForm.resources
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Start.resources
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.csproj.GenerateResource.cache
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.AssemblyInfoInputs.cache
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.AssemblyInfo.cs
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.csproj.CoreCompileInputs.cache
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.dll
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\refint\StudentHousing.dll
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.pdb
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.genruntimeconfig.cache
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\ref\StudentHousing.dll
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\bin\Debug\net8.0-windows\Json.Net.dll
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.csproj.AssemblyReference.cache
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.NewRule.resources
+C:\Users\Tim\Source\Repos\studenthousingNEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.csproj.AssemblyReference.cache
+C:\Users\Tim\Source\Repos\studenthousingNEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Admin.resources
+C:\Users\Tim\Source\Repos\studenthousingNEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.AnnouncementForm.resources
+C:\Users\Tim\Source\Repos\studenthousingNEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.ComplaintForm.resources
+C:\Users\Tim\Source\Repos\studenthousingNEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Form1.resources
+C:\Users\Tim\Source\Repos\studenthousingNEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Gallery.resources
+C:\Users\Tim\Source\Repos\studenthousingNEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Guest.resources
+C:\Users\Tim\Source\Repos\studenthousingNEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Login.resources
+C:\Users\Tim\Source\Repos\studenthousingNEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.MainPageForm.resources
+C:\Users\Tim\Source\Repos\studenthousingNEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.NewRule.resources
+C:\Users\Tim\Source\Repos\studenthousingNEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Properties.Resources.resources
+C:\Users\Tim\Source\Repos\studenthousingNEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Register.resources
+C:\Users\Tim\Source\Repos\studenthousingNEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.RuleForm.resources
+C:\Users\Tim\Source\Repos\studenthousingNEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Start.resources
+C:\Users\Tim\Source\Repos\studenthousingNEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.TaskForm.resources
+C:\Users\Tim\Source\Repos\studenthousingNEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.ViewComplaints.resources
+C:\Users\Tim\Source\Repos\studenthousingNEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.csproj.GenerateResource.cache
+C:\Users\Tim\Source\Repos\studenthousingNEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tim\Source\Repos\studenthousingNEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.AssemblyInfoInputs.cache
+C:\Users\Tim\Source\Repos\studenthousingNEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.AssemblyInfo.cs
+C:\Users\Tim\Source\Repos\studenthousingNEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Source\Repos\studenthousingNEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.dll
+C:\Users\Tim\Source\Repos\studenthousingNEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\refint\StudentHousing.dll
+C:\Users\Tim\Source\Repos\studenthousingNEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.pdb
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.ViewComplaints.resources
+C:\Users\Justin de Jong\Documents\Fontys\Projects\studenthousing\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.csproj.AssemblyReference.cache
+C:\Users\Justin de Jong\Documents\Fontys\Projects\studenthousing\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Admin.resources
+C:\Users\Justin de Jong\Documents\Fontys\Projects\studenthousing\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.AnnouncementForm.resources
+C:\Users\Justin de Jong\Documents\Fontys\Projects\studenthousing\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.ApplicationPreview.resources
+C:\Users\Justin de Jong\Documents\Fontys\Projects\studenthousing\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.ComplaintForm.resources
+C:\Users\Justin de Jong\Documents\Fontys\Projects\studenthousing\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Gallery.resources
+C:\Users\Justin de Jong\Documents\Fontys\Projects\studenthousing\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Guest.resources
+C:\Users\Justin de Jong\Documents\Fontys\Projects\studenthousing\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Login.resources
+C:\Users\Justin de Jong\Documents\Fontys\Projects\studenthousing\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.MainPageForm.resources
+C:\Users\Justin de Jong\Documents\Fontys\Projects\studenthousing\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.NewRule.resources
+C:\Users\Justin de Jong\Documents\Fontys\Projects\studenthousing\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Preview.resources
+C:\Users\Justin de Jong\Documents\Fontys\Projects\studenthousing\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Properties.Resources.resources
+C:\Users\Justin de Jong\Documents\Fontys\Projects\studenthousing\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Register.resources
+C:\Users\Justin de Jong\Documents\Fontys\Projects\studenthousing\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.RuleForm.resources
+C:\Users\Justin de Jong\Documents\Fontys\Projects\studenthousing\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Start.resources
+C:\Users\Justin de Jong\Documents\Fontys\Projects\studenthousing\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Tasks.resources
+C:\Users\Justin de Jong\Documents\Fontys\Projects\studenthousing\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.ViewComplaints.resources
+C:\Users\Justin de Jong\Documents\Fontys\Projects\studenthousing\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.csproj.GenerateResource.cache
+C:\Users\Justin de Jong\Documents\Fontys\Projects\studenthousing\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justin de Jong\Documents\Fontys\Projects\studenthousing\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.AssemblyInfoInputs.cache
+C:\Users\Justin de Jong\Documents\Fontys\Projects\studenthousing\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.AssemblyInfo.cs
+C:\Users\Justin de Jong\Documents\Fontys\Projects\studenthousing\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.csproj.CoreCompileInputs.cache
+C:\Users\Justin de Jong\Documents\Fontys\Projects\studenthousing\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.dll
+C:\Users\Justin de Jong\Documents\Fontys\Projects\studenthousing\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\refint\StudentHousing.dll
+C:\Users\Justin de Jong\Documents\Fontys\Projects\studenthousing\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.pdb
+C:\Users\Justin de Jong\Documents\Fontys\Projects\studenthousing\studenthousing\StudentHousing\StudentHousing\bin\Debug\net8.0-windows\StudentHousing.exe
+C:\Users\Justin de Jong\Documents\Fontys\Projects\studenthousing\studenthousing\StudentHousing\StudentHousing\bin\Debug\net8.0-windows\StudentHousing.deps.json
+C:\Users\Justin de Jong\Documents\Fontys\Projects\studenthousing\studenthousing\StudentHousing\StudentHousing\bin\Debug\net8.0-windows\StudentHousing.runtimeconfig.json
+C:\Users\Justin de Jong\Documents\Fontys\Projects\studenthousing\studenthousing\StudentHousing\StudentHousing\bin\Debug\net8.0-windows\StudentHousing.dll
+C:\Users\Justin de Jong\Documents\Fontys\Projects\studenthousing\studenthousing\StudentHousing\StudentHousing\bin\Debug\net8.0-windows\StudentHousing.pdb
+C:\Users\Justin de Jong\Documents\Fontys\Projects\studenthousing\studenthousing\StudentHousing\StudentHousing\bin\Debug\net8.0-windows\Json.Net.dll
+C:\Users\Justin de Jong\Documents\Fontys\Projects\studenthousing\studenthousing\StudentHousing\StudentHousing\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Justin de Jong\Documents\Fontys\Projects\studenthousing\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.csproj.CopyComplete
+C:\Users\Justin de Jong\Documents\Fontys\Projects\studenthousing\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.genruntimeconfig.cache
+C:\Users\Justin de Jong\Documents\Fontys\Projects\studenthousing\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\ref\StudentHousing.dll
+C:\Users\Justin de Jong\Documents\Fontys\Projects\studenthousing\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Form1.resources
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.ApplicationPreview.resources
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Preview.resources
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Tasks.resources
+C:\Users\Tim\Documents\group project\studenthousing NEW\StudentHousing\StudentHousing\bin\Debug\net8.0-windows\StudentHousing.exe
+C:\Users\Tim\Documents\group project\studenthousing NEW\StudentHousing\StudentHousing\bin\Debug\net8.0-windows\StudentHousing.deps.json
+C:\Users\Tim\Documents\group project\studenthousing NEW\StudentHousing\StudentHousing\bin\Debug\net8.0-windows\StudentHousing.runtimeconfig.json
+C:\Users\Tim\Documents\group project\studenthousing NEW\StudentHousing\StudentHousing\bin\Debug\net8.0-windows\StudentHousing.dll
+C:\Users\Tim\Documents\group project\studenthousing NEW\StudentHousing\StudentHousing\bin\Debug\net8.0-windows\StudentHousing.pdb
+C:\Users\Tim\Documents\group project\studenthousing NEW\StudentHousing\StudentHousing\bin\Debug\net8.0-windows\Json.Net.dll
+C:\Users\Tim\Documents\group project\studenthousing NEW\StudentHousing\StudentHousing\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Tim\Documents\group project\studenthousing NEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.csproj.AssemblyReference.cache
+C:\Users\Tim\Documents\group project\studenthousing NEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Admin.resources
+C:\Users\Tim\Documents\group project\studenthousing NEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.AnnouncementForm.resources
+C:\Users\Tim\Documents\group project\studenthousing NEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.ApplicationPreview.resources
+C:\Users\Tim\Documents\group project\studenthousing NEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.ComplaintForm.resources
+C:\Users\Tim\Documents\group project\studenthousing NEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Form1.resources
+C:\Users\Tim\Documents\group project\studenthousing NEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Gallery.resources
+C:\Users\Tim\Documents\group project\studenthousing NEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Guest.resources
+C:\Users\Tim\Documents\group project\studenthousing NEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Login.resources
+C:\Users\Tim\Documents\group project\studenthousing NEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.MainPageForm.resources
+C:\Users\Tim\Documents\group project\studenthousing NEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.NewRule.resources
+C:\Users\Tim\Documents\group project\studenthousing NEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Preview.resources
+C:\Users\Tim\Documents\group project\studenthousing NEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Properties.Resources.resources
+C:\Users\Tim\Documents\group project\studenthousing NEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Register.resources
+C:\Users\Tim\Documents\group project\studenthousing NEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.RuleForm.resources
+C:\Users\Tim\Documents\group project\studenthousing NEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Start.resources
+C:\Users\Tim\Documents\group project\studenthousing NEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Tasks.resources
+C:\Users\Tim\Documents\group project\studenthousing NEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.ViewComplaints.resources
+C:\Users\Tim\Documents\group project\studenthousing NEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.csproj.GenerateResource.cache
+C:\Users\Tim\Documents\group project\studenthousing NEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tim\Documents\group project\studenthousing NEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.AssemblyInfoInputs.cache
+C:\Users\Tim\Documents\group project\studenthousing NEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.AssemblyInfo.cs
+C:\Users\Tim\Documents\group project\studenthousing NEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\group project\studenthousing NEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.csproj.CopyComplete
+C:\Users\Tim\Documents\group project\studenthousing NEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.dll
+C:\Users\Tim\Documents\group project\studenthousing NEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\refint\StudentHousing.dll
+C:\Users\Tim\Documents\group project\studenthousing NEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.pdb
+C:\Users\Tim\Documents\group project\studenthousing NEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.genruntimeconfig.cache
+C:\Users\Tim\Documents\group project\studenthousing NEW\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\ref\StudentHousing.dll
+C:\Users\Tim\Documents\group project\studenthousing NEWEST\StudentHousing\StudentHousing\bin\Debug\net8.0-windows\StudentHousing.exe
+C:\Users\Tim\Documents\group project\studenthousing NEWEST\StudentHousing\StudentHousing\bin\Debug\net8.0-windows\StudentHousing.deps.json
+C:\Users\Tim\Documents\group project\studenthousing NEWEST\StudentHousing\StudentHousing\bin\Debug\net8.0-windows\StudentHousing.runtimeconfig.json
+C:\Users\Tim\Documents\group project\studenthousing NEWEST\StudentHousing\StudentHousing\bin\Debug\net8.0-windows\StudentHousing.dll
+C:\Users\Tim\Documents\group project\studenthousing NEWEST\StudentHousing\StudentHousing\bin\Debug\net8.0-windows\StudentHousing.pdb
+C:\Users\Tim\Documents\group project\studenthousing NEWEST\StudentHousing\StudentHousing\bin\Debug\net8.0-windows\Json.Net.dll
+C:\Users\Tim\Documents\group project\studenthousing NEWEST\StudentHousing\StudentHousing\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Tim\Documents\group project\studenthousing NEWEST\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.csproj.AssemblyReference.cache
+C:\Users\Tim\Documents\group project\studenthousing NEWEST\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Admin.resources
+C:\Users\Tim\Documents\group project\studenthousing NEWEST\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.AnnouncementForm.resources
+C:\Users\Tim\Documents\group project\studenthousing NEWEST\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.ApplicationPreview.resources
+C:\Users\Tim\Documents\group project\studenthousing NEWEST\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.ComplaintForm.resources
+C:\Users\Tim\Documents\group project\studenthousing NEWEST\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Form1.resources
+C:\Users\Tim\Documents\group project\studenthousing NEWEST\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Gallery.resources
+C:\Users\Tim\Documents\group project\studenthousing NEWEST\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Guest.resources
+C:\Users\Tim\Documents\group project\studenthousing NEWEST\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Login.resources
+C:\Users\Tim\Documents\group project\studenthousing NEWEST\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.MainPageForm.resources
+C:\Users\Tim\Documents\group project\studenthousing NEWEST\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.NewRule.resources
+C:\Users\Tim\Documents\group project\studenthousing NEWEST\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Preview.resources
+C:\Users\Tim\Documents\group project\studenthousing NEWEST\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Profile.resources
+C:\Users\Tim\Documents\group project\studenthousing NEWEST\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Properties.Resources.resources
+C:\Users\Tim\Documents\group project\studenthousing NEWEST\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Register.resources
+C:\Users\Tim\Documents\group project\studenthousing NEWEST\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.RuleForm.resources
+C:\Users\Tim\Documents\group project\studenthousing NEWEST\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Start.resources
+C:\Users\Tim\Documents\group project\studenthousing NEWEST\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.Tasks.resources
+C:\Users\Tim\Documents\group project\studenthousing NEWEST\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.ViewComplaints.resources
+C:\Users\Tim\Documents\group project\studenthousing NEWEST\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.csproj.GenerateResource.cache
+C:\Users\Tim\Documents\group project\studenthousing NEWEST\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tim\Documents\group project\studenthousing NEWEST\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.AssemblyInfoInputs.cache
+C:\Users\Tim\Documents\group project\studenthousing NEWEST\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.AssemblyInfo.cs
+C:\Users\Tim\Documents\group project\studenthousing NEWEST\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\group project\studenthousing NEWEST\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.csproj.CopyComplete
+C:\Users\Tim\Documents\group project\studenthousing NEWEST\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.dll
+C:\Users\Tim\Documents\group project\studenthousing NEWEST\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\refint\StudentHousing.dll
+C:\Users\Tim\Documents\group project\studenthousing NEWEST\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.pdb
+C:\Users\Tim\Documents\group project\studenthousing NEWEST\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.genruntimeconfig.cache
+C:\Users\Tim\Documents\group project\studenthousing NEWEST\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\ref\StudentHousing.dll
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.EditProfile.resources
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentHousing.SearchForm.resources
+C:\Users\andre\Git\studenthousing\StudentHousing\StudentHousing\obj\Debug\net8.0-windows\StudentH.5FFD34A5.Up2Date

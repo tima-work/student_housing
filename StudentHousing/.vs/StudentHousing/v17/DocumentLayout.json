@@ -1,0 +1,806 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|c:\\users\\andre\\git\\studenthousing\\studenthousing\\studenthousing\\announcement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\announcement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|c:\\users\\andre\\git\\studenthousing\\studenthousing\\studenthousing\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|c:\\users\\andre\\git\\studenthousing\\studenthousing\\studenthousing\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|c:\\users\\andre\\git\\studenthousing\\studenthousing\\studenthousing\\mainpageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\mainpageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\studenthousing\\mainpageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\mainpageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|c:\\users\\andre\\git\\studenthousing\\studenthousing\\studenthousing\\resizeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\resizeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|c:\\users\\andre\\git\\studenthousing\\studenthousing\\studenthousing\\ruleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\ruleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|c:\\users\\andre\\git\\studenthousing\\studenthousing\\studenthousing\\complaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\complaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|c:\\users\\andre\\git\\studenthousing\\studenthousing\\studenthousing\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|c:\\users\\andre\\git\\studenthousing\\studenthousing\\studenthousing\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|c:\\users\\andre\\git\\studenthousing\\studenthousing\\studenthousing\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|c:\\users\\andre\\git\\studenthousing\\studenthousing\\studenthousing\\announcementmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\announcementmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|c:\\users\\andre\\git\\studenthousing\\studenthousing\\studenthousing\\complaintmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\complaintmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|c:\\users\\andre\\git\\studenthousing\\studenthousing\\studenthousing\\rulemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\rulemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|c:\\users\\andre\\git\\studenthousing\\studenthousing\\studenthousing\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|c:\\users\\andre\\git\\studenthousing\\studenthousing\\studenthousing\\rule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\rule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|c:\\users\\andre\\git\\studenthousing\\studenthousing\\studenthousing\\newrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\newrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|c:\\users\\andre\\git\\studenthousing\\studenthousing\\studenthousing\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\studenthousing\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\studenthousing\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|c:\\users\\andre\\git\\studenthousing\\studenthousing\\studenthousing\\viewcomplaints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\viewcomplaints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\studenthousing\\viewcomplaints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\viewcomplaints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|c:\\users\\andre\\git\\studenthousing\\studenthousing\\studenthousing\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\studenthousing\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|c:\\users\\andre\\git\\studenthousing\\studenthousing\\studenthousing\\announcementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\announcementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\studenthousing\\announcementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\announcementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\studenthousing\\ruleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\ruleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|c:\\users\\andre\\git\\studenthousing\\studenthousing\\studenthousing\\complaintform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\complaintform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\studenthousing\\complaintform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\complaintform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|c:\\users\\andre\\git\\studenthousing\\studenthousing\\studenthousing\\searchfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\searchfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\studenthousing\\searchfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\searchfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|c:\\users\\andre\\git\\studenthousing\\studenthousing\\studenthousing\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\studenthousing\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|c:\\users\\andre\\git\\studenthousing\\studenthousing\\studenthousing\\applicationpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\applicationpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\studenthousing\\applicationpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\applicationpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|c:\\users\\andre\\git\\studenthousing\\studenthousing\\studenthousing\\preview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\preview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\studenthousing\\preview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\preview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|c:\\users\\andre\\git\\studenthousing\\studenthousing\\studenthousing\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|c:\\users\\andre\\git\\studenthousing\\studenthousing\\studenthousing\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|c:\\users\\andre\\git\\studenthousing\\studenthousing\\studenthousing\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\studenthousing\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\studenthousing\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|c:\\users\\andre\\git\\studenthousing\\studenthousing\\studenthousing\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\studenthousing\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|c:\\users\\andre\\git\\studenthousing\\studenthousing\\studenthousing\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\studenthousing\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\studenthousing\\newrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\newrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|c:\\users\\andre\\git\\studenthousing\\studenthousing\\studenthousing\\profile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEB2DDF-BF20-496B-BF4C-718D5D718660}|StudentHousing\\StudentHousing.csproj|solutionrelative:studenthousing\\profile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPageForm.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\MainPageForm.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\MainPageForm.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\MainPageForm.cs",
+              "RelativeToolTip": "StudentHousing\\MainPageForm.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAIBJwLcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T14:01:27.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Announcement.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Announcement.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\Announcement.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Announcement.cs",
+              "RelativeToolTip": "StudentHousing\\Announcement.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAwwCMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T14:01:27.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Complaint.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Complaint.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\Complaint.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Complaint.cs",
+              "RelativeToolTip": "StudentHousing\\Complaint.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T14:01:27.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ComplaintManager.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\ComplaintManager.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\ComplaintManager.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\ComplaintManager.cs",
+              "RelativeToolTip": "StudentHousing\\ComplaintManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T14:01:27.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AnnouncementManager.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\AnnouncementManager.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\AnnouncementManager.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\AnnouncementManager.cs",
+              "RelativeToolTip": "StudentHousing\\AnnouncementManager.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAACAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T14:01:27.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\TaskManager.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\TaskManager.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\TaskManager.cs",
+              "RelativeToolTip": "StudentHousing\\TaskManager.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T14:01:27.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPageForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\MainPageForm.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\MainPageForm.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\MainPageForm.cs [Design]",
+              "RelativeToolTip": "StudentHousing\\MainPageForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T14:01:27.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResizeClass.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\ResizeClass.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\ResizeClass.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\ResizeClass.cs",
+              "RelativeToolTip": "StudentHousing\\ResizeClass.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T14:01:27.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Guest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Guest.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\Guest.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Guest.cs [Design]",
+              "RelativeToolTip": "StudentHousing\\Guest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T21:05:12.882Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Guest.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\Guest.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Guest.cs",
+              "RelativeToolTip": "StudentHousing\\Guest.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAC0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T14:01:27.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Task.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\Task.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Task.cs",
+              "RelativeToolTip": "StudentHousing\\Task.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T19:05:15.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RuleForm.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\RuleForm.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\RuleForm.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\RuleForm.cs",
+              "RelativeToolTip": "StudentHousing\\RuleForm.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwEcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T14:01:27.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentManager.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\StudentManager.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\StudentManager.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\StudentManager.cs",
+              "RelativeToolTip": "StudentHousing\\StudentManager.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAAAFEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T14:01:27.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Student.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\Student.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Student.cs",
+              "RelativeToolTip": "StudentHousing\\Student.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T14:01:27.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RuleManager.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\RuleManager.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\RuleManager.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\RuleManager.cs",
+              "RelativeToolTip": "StudentHousing\\RuleManager.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAACoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T20:33:52.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NewRule.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\NewRule.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\NewRule.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\NewRule.cs",
+              "RelativeToolTip": "StudentHousing\\NewRule.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAwwEEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T14:01:27.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Rule.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Rule.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\Rule.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Rule.cs",
+              "RelativeToolTip": "StudentHousing\\Rule.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T14:01:27.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Profile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Profile.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\Profile.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Profile.cs [Design]",
+              "RelativeToolTip": "StudentHousing\\Profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-16T14:01:27.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Admin.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\Admin.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Admin.cs",
+              "RelativeToolTip": "StudentHousing\\Admin.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAADsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T14:01:27.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Admin.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\Admin.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Admin.cs [Design]",
+              "RelativeToolTip": "StudentHousing\\Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-16T14:01:27.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ViewComplaints.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\ViewComplaints.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\ViewComplaints.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\ViewComplaints.cs",
+              "RelativeToolTip": "StudentHousing\\ViewComplaints.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAB0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T14:01:27.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ViewComplaints.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\ViewComplaints.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\ViewComplaints.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\ViewComplaints.cs [Design]",
+              "RelativeToolTip": "StudentHousing\\ViewComplaints.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-16T14:01:27.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Tasks.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Tasks.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\Tasks.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Tasks.cs",
+              "RelativeToolTip": "StudentHousing\\Tasks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T20:15:01.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Tasks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Tasks.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\Tasks.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Tasks.cs [Design]",
+              "RelativeToolTip": "StudentHousing\\Tasks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-16T20:20:29.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AnnouncementForm.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\AnnouncementForm.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\AnnouncementForm.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\AnnouncementForm.cs",
+              "RelativeToolTip": "StudentHousing\\AnnouncementForm.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAABQwD0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T14:01:27.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AnnouncementForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\AnnouncementForm.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\AnnouncementForm.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\AnnouncementForm.cs [Design]",
+              "RelativeToolTip": "StudentHousing\\AnnouncementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-16T14:01:27.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RuleForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\RuleForm.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\RuleForm.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\RuleForm.cs [Design]",
+              "RelativeToolTip": "StudentHousing\\RuleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-16T14:01:27.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ComplaintForm2.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\ComplaintForm2.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\ComplaintForm2.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\ComplaintForm2.cs",
+              "RelativeToolTip": "StudentHousing\\ComplaintForm2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T14:01:27.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ComplaintForm2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\ComplaintForm2.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\ComplaintForm2.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\ComplaintForm2.cs [Design]",
+              "RelativeToolTip": "StudentHousing\\ComplaintForm2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-16T14:01:27.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SearchFrom.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\SearchFrom.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\SearchFrom.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\SearchFrom.cs",
+              "RelativeToolTip": "StudentHousing\\SearchFrom.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADcAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T17:48:21.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SearchFrom.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\SearchFrom.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\SearchFrom.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\SearchFrom.cs [Design]",
+              "RelativeToolTip": "StudentHousing\\SearchFrom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-16T17:48:15.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Profile.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\Profile.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Profile.cs",
+              "RelativeToolTip": "StudentHousing\\Profile.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T16:48:17.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ApplicationPreview.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\ApplicationPreview.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\ApplicationPreview.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\ApplicationPreview.cs",
+              "RelativeToolTip": "StudentHousing\\ApplicationPreview.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T14:01:27.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ApplicationPreview.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\ApplicationPreview.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\ApplicationPreview.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\ApplicationPreview.cs [Design]",
+              "RelativeToolTip": "StudentHousing\\ApplicationPreview.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-16T14:01:27.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Preview.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Preview.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\Preview.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Preview.cs",
+              "RelativeToolTip": "StudentHousing\\Preview.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIAwwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T14:01:27.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Preview.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Preview.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\Preview.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Preview.cs [Design]",
+              "RelativeToolTip": "StudentHousing\\Preview.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-16T14:01:27.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Gallery.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Gallery.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\Gallery.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Gallery.cs",
+              "RelativeToolTip": "StudentHousing\\Gallery.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T14:01:27.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Gallery.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Gallery.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\Gallery.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Gallery.cs [Design]",
+              "RelativeToolTip": "StudentHousing\\Gallery.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-16T14:01:27.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Login.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\Login.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Login.cs",
+              "RelativeToolTip": "StudentHousing\\Login.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAIBJwCYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T14:01:27.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Register.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\Register.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Register.cs [Design]",
+              "RelativeToolTip": "StudentHousing\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-16T14:01:27.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Register.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\Register.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Register.cs",
+              "RelativeToolTip": "StudentHousing\\Register.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T14:01:27.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Login.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\Login.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Login.cs [Design]",
+              "RelativeToolTip": "StudentHousing\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-16T14:01:27.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Start.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Start.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\Start.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Start.cs [Design]",
+              "RelativeToolTip": "StudentHousing\\Start.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-16T14:01:27.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Start.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Start.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\Start.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Start.cs",
+              "RelativeToolTip": "StudentHousing\\Start.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACgAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T14:01:27.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Form1.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\Form1.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Form1.cs",
+              "RelativeToolTip": "StudentHousing\\Form1.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAAFUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T14:01:27.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Form1.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\Form1.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Form1.cs [Design]",
+              "RelativeToolTip": "StudentHousing\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-16T14:01:27.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "NewRule.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\NewRule.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\NewRule.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\NewRule.cs [Design]",
+              "RelativeToolTip": "StudentHousing\\NewRule.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-16T14:01:27.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Profile.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Profile.Designer.cs",
+              "RelativeDocumentMoniker": "StudentHousing\\Profile.Designer.cs",
+              "ToolTip": "C:\\Users\\andre\\Git\\studenthousing\\StudentHousing\\StudentHousing\\Profile.Designer.cs",
+              "RelativeToolTip": "StudentHousing\\Profile.Designer.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T17:37:04.998Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
